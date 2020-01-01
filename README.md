@@ -2,7 +2,11 @@
 
 Use `weather` to see current weather conditions on the command line.
 
-(todo badges)
+[![Go Report Card](https://goreportcard.com/badge/gophers.dev/cmds/weather)](https://goreportcard.com/report/gophers.dev/cmds/weather)
+[![Build Status](https://travis-ci.org/shoenig/weather.svg?branch=master)](https://travis-ci.org/shoenig/weather)
+[![GoDoc](https://godoc.org/gophers.dev/cmds/weather?status.svg)](https://godoc.org/gophers.dev/cmds/weather)
+![NetflixOSS Lifecycle](https://img.shields.io/osslifecycle/shoenig/weather.svg)
+![GitHub](https://img.shields.io/github/license/shoenig/weather.svg)
 
 # Project Overview
 
