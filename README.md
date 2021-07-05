@@ -20,7 +20,7 @@ output customized.
 
 The `weather` command can be installed by running
 ```bash
-go get gophers.dev/cmds/weather
+go install gophers.dev/cmds/weather@latest
 ```
 
 The use of `weather` requires a free token from [openweathermap](https://openweathermap.org/)
